@@ -1,4 +1,8 @@
-# Bài tập lớn OOP - Bomberman Game
+# Bài tập lớn OOP - Bomberman Game Nhóm 11 
+Thành viên: 
+1. Nguyễn Tiến Mạnh
+2. Nguyễn Khắc Nam Huy
+
 
 Trong bài tập lớn này, nhiệm vụ của bạn là viết một phiên bản Java mô phỏng lại trò chơi [Bomberman](https://www.youtube.com/watch?v=mKIOVwqgSXM) kinh điển của NES.
 
